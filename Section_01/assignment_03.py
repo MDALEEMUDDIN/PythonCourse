@@ -21,7 +21,9 @@ word = "Cool"
 # Expected Result Printed: [[Cool]]
 
 # Your code below:
-
+Chars = "[[]]"
+Word = "cool"
+Print(chars[0:2] + word + chars [2:4])
 
 
 
